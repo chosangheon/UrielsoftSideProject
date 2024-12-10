@@ -1,0 +1,3 @@
+rootProject.name = 'UrielsoftSideProject'
+include 'urielsoft-side-backend'
+include 'urielsoft-side-frontend'
